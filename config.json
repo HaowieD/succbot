@@ -1,0 +1,15 @@
+{
+  "prefix": "!",
+  "debug": false,
+  "osu_cache_path": "/tmp/osumaps",
+  "pp_path": "",
+  "beatmap_api": "https://osu.lea.moe",
+  "credentials": {
+    "bot_token": "NTk4NDM2MzIyMzMxMzI4NTEy.XScgbQ.b-lTwQdPi16stOQxt_iEDFSvD00",
+    "discord_client_id": "",
+    "osu_api_key": "ac799bd358ae19a3f35eca57eebb90fc75d3fbb4",
+    "twitch_client_id": "",
+    "pexels_key": "563492ad6f91700001000001a587192722174cce9f11821725cc5dcb",
+    "last_fm_key": ""
+   }
+}
