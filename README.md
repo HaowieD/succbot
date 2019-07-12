@@ -89,7 +89,7 @@
 
     pm2 start npm --name flowabot -- start
     
-**To start the bot on system boot use**
+**To start the bot on system boot usee**
 
     pm2 save
     pm2 startup
