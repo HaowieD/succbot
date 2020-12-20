@@ -13,7 +13,7 @@
   "author": "LeaPhant",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "canvas": "^2.5.0",
     "chalk": "^2.4.2",
     "cheerio": "^1.0.0-rc.2",
